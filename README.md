@@ -1,35 +1,77 @@
-# Olá! Sou [EDILSON] 👋
+Olá, eu sou o Edilson Pereira da Silva 👋
 
-## ✨ Sobre Mim
+Cloud Enthusiast | ADS Student | Career Pivot (Drywall to Tech)
 
-*   🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.
-*   🐍 Apaixonado por Python e desenvolvimento Back-end.
-*   ☁️ Explorando o mundo da Computação em Nuvem (AWS/GCP/Azure ).
-*   🚀 Buscando minha primeira oportunidade como Desenvolvedor Remoto para aprender e contribuir.
-*   📫 Como me encontrar: [edilson2kti@gmail.com] | [https://www.linkedin.com/in/edilson-pereira-845138124/]
+🏗️ De Canteiros de Obras para Arquitetura de Nuvem
 
-## 🛠️ Tecnologias e Ferramentas
+Com mais de 20 anos de experiência como instalador de Drywall, desenvolvi uma disciplina rigorosa na entrega de projetos sob pressão e com prazos rígidos. Hoje, aplico essa mesma resiliência e foco em resultados na construção de Infraestrutura em Nuvem e Automação com Python.
+
+With over 20 years of experience in Drywall installation, I developed rigorous discipline in delivering projects under pressure and tight deadlines. Today, I apply that same resilience and results-oriented focus to building Cloud Infrastructure and Python Automation.
 
 
-🐍 "Linguagens: Python"
-🧪 "Back-end: Flask ( Django )"
-☁️ "Cloud: AWS ( GCP, Azure)"
-🗃️ "Banco de Dados: SQL (PostgreSQL/MySQL), NoSQL" 📦
-🔄 "Controle de Versão: Git & GitHub"
-🐧/🪟 "SO: Linux, Windows"
 
-## 📊 Estatísticas do GitHub 
 
-[![Minhas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
+🚀 O que estou construindo agora (What I'm building now)
 
-## 📌 Projetos em Destaque
+•
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Estácio (Último Período).
 
-(Aqui você mencionará os projetos que vai fixar - veja Passo 8)
+•
+☁️ Focado em certificações AWS/Azure/GCP.
 
-*   [Nome do Projeto 1](link-para-o-repo): Breve descrição do projeto.
-*   [Nome do Projeto 2](link-para-o-repo): Breve descrição do projeto.
-*   ...
+•
+🐍 Automatizando tarefas repetitivas com Python.
 
----
-*""Código sem café é como um commit sem mensagem: funciona, mas ninguém entende como! ☕💻✨ #ProgramaçãoÉArte "*
+
+
+
+🛠️ Tecnologias & Ferramentas (Tech Stack)
+
+•
+Linguagens: Python (Scripts & Automation).
+
+•
+Cloud: AWS (EC2, S3, IAM), Azure Basics.
+
+•
+DevOps/Git: Git, GitHub Actions, Linux (Ubuntu/Debian).
+
+•
+Soft Skills: Prazos (Deadlines), Resiliência (Resilience), Resolução de Problemas (Problem Solving).
+
+
+
+
+📈 Projetos em Destaque (Featured Projects)
+
+1.
+Python Task Automator: Script para automação de logs e organização de arquivos.
+
+2.
+Static Site on AWS S3: Hospedagem de site estático com CloudFront e SSL.
+
+3.
+Estácio Study Notes: Repositório organizado com exercícios e projetos acadêmicos.
+
+
+
+
+📫 Como me encontrar (Connect with me)
+
+•
+💼 LinkedIn
+
+•
+📧 Email
+
+•
+🌍 [Portfolio](Ainda não tenho site de portifolio pessoal)
+
+
+
+
+"Construindo o futuro, bit a bit, com a mesma solidez de uma parede bem feita."**"Building the future, bit by bit, with the same solidity of a well-made wall."
+
+
+
 
