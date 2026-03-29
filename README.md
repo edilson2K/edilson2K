@@ -6,10 +6,6 @@ Cloud Enthusiast | ADS Student | Career Pivot (Drywall to Tech)
 
 Com mais de 20 anos de experiência como instalador de Drywall, desenvolvi uma disciplina rigorosa na entrega de projetos sob pressão e com prazos rígidos. Hoje, aplico essa mesma resiliência e foco em resultados na construção de Infraestrutura em Nuvem e Automação com Python.
 
-With over 20 years of experience in Drywall installation, I developed rigorous discipline in delivering projects under pressure and tight deadlines. Today, I apply that same resilience and results-oriented focus to building Cloud Infrastructure and Python Automation.
-
-
-
 
 🚀 O que estou construindo agora (What I'm building now)
 
@@ -21,8 +17,6 @@ With over 20 years of experience in Drywall installation, I developed rigorous d
 
 •
 🐍 Automatizando tarefas repetitivas com Python.
-
-
 
 
 🛠️ Tecnologias & Ferramentas (Tech Stack)
@@ -38,8 +32,6 @@ DevOps/Git: Git, GitHub Actions, Linux (Ubuntu/Debian).
 
 •
 Soft Skills: Prazos (Deadlines), Resiliência (Resilience), Resolução de Problemas (Problem Solving).
-
-
 
 
 📈 Projetos em Destaque (Featured Projects)
@@ -59,18 +51,13 @@ Estácio Study Notes: Repositório organizado com exercícios e projetos acadêm
 📫 Como me encontrar (Connect with me)
 
 •
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/edilson-pereira-845138124/
 
 •
-📧 Email
-
-•
-🌍 [Portfolio](Ainda não tenho site de portifolio pessoal)
+📧 Email: Edilson2kti@gmail.com
 
 
-
-
-"Construindo o futuro, bit a bit, com a mesma solidez de uma parede bem feita."**"Building the future, bit by bit, with the same solidity of a well-made wall."
+"Construindo o futuro, bit a bit, com a mesma solidez de uma parede bem feita.
 
 
 
