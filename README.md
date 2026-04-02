@@ -1,5 +1,5 @@
 # Olá, eu sou o Edilson Pereira da Silva 👋
-## Cloud Enthusiast | ADS Student | Career Pivot (Drywall to Tech)
+## Cloud Enthusiast | ADS Student | Career Pivot (Drywall)
 
 ### 🏗️ De Canteiros de Obras para Arquitetura de Nuvem
 Com mais de 20 anos de experiência como instalador de Drywall, desenvolvi uma disciplina rigorosa na entrega de projetos sob pressão e com prazos rígidos. Hoje, aplico essa mesma resiliência e foco em resultados na construção de **Infraestrutura em Nuvem** e **Automação com Python**.
